@@ -1,3 +1,7 @@
+@import url('https://fonts.googleapis.com/css?family=Love+Ya+Like+A+Sister');
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display');
+
+
 body {
   font-size: 16px;
   font-family: sans-serif;
@@ -9,7 +13,7 @@ body {
   margin: 0 auto;
 }
 
-img {
+/*img {
   border: 0px solid #ccc;
   margin-right: 15px;
   margin-bottom: 15px;
@@ -18,7 +22,8 @@ img {
 
 img:nth-child(3n+3) {
   margin-right: 0;
-}
+}*/
+
 
 nav ul{
   margin: 0;
@@ -30,6 +35,33 @@ nav ul{
 nav li{
   display: inline-block;
   margin-right: 20px;
+  padding-bottom: 30px;
   padding-top:20px;
-  padding-bottom: 50px;
+  font-family: 'Playfair Display', serif;
+}
+
+h1{
+  font-family: 'Love Ya Like A Sister', cursive;
+  font-size: 30px;
+}
+
+#about-me-paragraph{
+  position: absolute;
+  bottom: 0;
+  right: 70px;
+  width: 400px;
+  height: 600px;
+  line-height: 35px;
+}
+
+#about-me-pic{
+  position: absolute;
+  top: 20px;
+  left: 0px;
+}
+
+article {
+  position: relative;
+  /*border: .5px solid #222;*/
+  min-height: 600px;
 }
