@@ -65,3 +65,20 @@ article {
   /*border: .5px solid #222;*/
   min-height: 600px;
 }
+
+a{
+  text-decoration: none;
+  color: rgb(	128,128,128);
+}
+
+a:hover{
+  text-decoration: underline;
+}
+
+a:active{
+  color: rgb(	128,0,128);
+}
+
+a:visited{
+  color: rgb(	128,0,128);
+}
