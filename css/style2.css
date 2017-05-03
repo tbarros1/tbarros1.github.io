@@ -43,6 +43,7 @@ nav li{
 h1{
   font-family: 'Love Ya Like A Sister', cursive;
   font-size: 30px;
+  top: 50px;
 }
 
 #about-me-paragraph{
@@ -72,7 +73,7 @@ a{
 }
 
 a:hover{
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 a:active{
