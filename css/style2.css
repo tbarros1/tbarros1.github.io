@@ -15,16 +15,16 @@ body {
   margin: 0 auto;
 }
 
-/*img {
+img {
   border: 0px solid #ccc;
-  margin-right: 15px;
-  margin-bottom: 15px;
-  float: left;
+  margin-right: .5px;
+  margin-bottom: .5px;
+  /*float: left;*/
 }
 
 img:nth-child(3n+3) {
   margin-right: 0;
-}*/
+}
 
 
 nav ul{
