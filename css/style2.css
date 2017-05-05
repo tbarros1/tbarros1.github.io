@@ -17,9 +17,9 @@ body {
 
 img {
   border: 0px solid #ccc;
-  margin-right: .5px;
-  margin-bottom: .5px;
-  /*float: left;*/
+  margin-right: 10px;
+  margin-bottom: 10px;
+  float: left;
 }
 
 img:nth-child(3n+3) {
