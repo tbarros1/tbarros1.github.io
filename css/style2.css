@@ -11,15 +11,16 @@ body {
 }
 
 #container {
-  width: 960px;
-  margin: 0 auto;
+  width: 1200px;
+  margin: 0px;
+  position: absolute;
 }
 
 img {
   border: 0px solid #ccc;
   margin-right: 10px;
   margin-bottom: 10px;
-  float: left;
+  float: center;
 }
 
 img:nth-child(3n+3) {
